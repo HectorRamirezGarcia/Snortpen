@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300,800');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+.slider{
+    /* background: url("../img/Chivacola.jpg"); */
+    /* Ocupara toda la altura disponible */
+    height: 100vh;
+    /* La imagen de adapte al tamaño del despoditivo */
+    background-size: cover;
+    /* La imagen estara centrada */
+    background-position: center;
+}
+
+.right_content {
+  margin-top:8%;
+}
+
+input {
+  margin-top:5%;
+}
+
+.child {
+  margin-top: 10%;
+}
